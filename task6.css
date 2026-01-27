@@ -1,0 +1,42 @@
+#home{
+    height: 100vh;
+    background: linear-gradient(to right, 	#CD7F32, #EADDCA);
+    color:antiquewhite;
+    padding-top: 50px;
+    margin-top: 50px;
+    margin-bottom: 50px;
+    letter-spacing: 1px;    
+    text-align: center;
+}
+#skills{
+    height: 100vh;
+    padding-top: 100px;
+    margin-top: 50px;
+    margin-bottom: 150px;
+}
+
+#about{
+    height: 100vh;
+    padding-top: 100px;
+    margin-top: 150px;
+    margin-bottom: 50px;
+}
+
+#projects{
+    height: 100vh;
+    padding-top: 200px;
+    margin-top: 200px;
+    margin-bottom: 20px;
+}
+
+.profile-img{
+    width: 100%;
+    max-width: 400px;
+    height: auto;
+}
+
+.card-img-top{
+    height: 200px;
+    object-fit: cover;
+}
+
